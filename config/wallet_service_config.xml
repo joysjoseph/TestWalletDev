@@ -25,6 +25,6 @@
 	<W0091_CC_KEY><![CDATA[18F-SuperSekritMobi1eKe!]]></W0091_CC_KEY>
 	<VALID_SOURCE_IDS><![CDATA[W0093,W0050,W0097,W0066,W0091]]></VALID_SOURCE_IDS>
 	<CC_CRYPTO_ACTIVE>TRUE</CC_CRYPTO_ACTIVE>
-	<AZ_DB_URL><![CDATA[jdbc:sqlserver://msazdbt01.database.windows.net:1433;database=MicroSvcDB;user=awebservMicro@msazdbt01;password=webM1%$12rJKlm@01;encrypt=true;trustServerCertificate=false;hostNameInCertificate=eastus1-a.control.database.windows.net;loginTimeout=30]]></AZ_DB_URL>
+	<AZ_DB_URL><![CDATA[jdbc:sqlserver://msazdbt01.database.windows.net:1433;database=MicroSvcDB;user=webservMicro@msazdbt01;password=webM1%$12rJKlm@01;encrypt=true;trustServerCertificate=false;hostNameInCertificate=eastus1-a.control.database.windows.net;loginTimeout=30]]></AZ_DB_URL>
 	
 </ROOTCONFIG>
